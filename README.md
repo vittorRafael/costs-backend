@@ -41,9 +41,11 @@ Essa aplicação oferece uma solução completa para o gerenciamento de projetos
 
 ### Como executar o projeto
 
-1- Clonar repositório com `git clone`
-2- Entrar no reposiótio clonado e instalar as dependencias com `npm install`
-3- Executar o projeto com npm start
+1 - Clonar repositório com `git clone`
+
+2 - Entrar no reposiótio clonado e instalar as dependencias com `npm install`
+
+3 - Executar o projeto com npm start
 
 ### Contribuidores
 
