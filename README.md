@@ -20,9 +20,7 @@ A aplicação tem como objetivo simplificar o processo de gerenciamento de proje
 
 Essa aplicação oferece uma solução completa para o gerenciamento de projetos e cálculo de custos, proporcionando aos usuários uma ferramenta poderosa para acompanhar e controlar suas finanças de projetos. Com uma combinação sólida de tecnologias no frontend e no backend, ela é capaz de fornecer uma experiência de usuário eficiente e confiável.
 
-<img src="https://img.shields.io/github/stars/vittorRafael/costs-backend?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/vittorRafael/costs-backend?style=social">
-<img src="https://img.shields.io/github/issues-closed/vittorRafael/costs-backend?style=social">
+
 
 [Projeto disponível](https://costs-tan-one.vercel.app/)
 
