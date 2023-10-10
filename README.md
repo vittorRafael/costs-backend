@@ -43,7 +43,7 @@ Essa aplicação oferece uma solução completa para o gerenciamento de projetos
 
 - Clonar repositório com `git clone`
 - Entrar no reposiótio clonado e instalar as dependencias com `npm install`
-- Executar o projeto com npm start
+- Executar o projeto com `npm start`
 
 ### Contribuidores
 
